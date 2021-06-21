@@ -1,6 +1,6 @@
 {
-  "name": "Axies Favs",
-  "description": "Save Axies to Favs",
+  "name": "BG Colour",
+  "description": "Chrome extension dev example",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
